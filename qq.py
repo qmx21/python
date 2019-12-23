@@ -1,18 +1,10 @@
-
-
 lfkgidfjfr
 wedkd
 asdlfkc
 asdefsd
-
 ddeasdewip
 print('能写中文!')
-
-Administrator@wuyangjun MINGW64 ~
-Administrator@wuyangjun MINGW64 ~
-
-
-Administrator@wuyangjun MINGW64 ~
-
-
-Administrator@wuyangjun MINGW64 ~
+def fn():
+    print('123')
+    return 'haha'
+fn()
