@@ -17,5 +17,4 @@ zxcvbnm
 qaz
 987654321
 
-def fn1():
-    print('武阳君isstupid')
+qwe
